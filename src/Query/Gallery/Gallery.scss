@@ -1,0 +1,82 @@
+.selectegg {
+	text-align: center;
+	color: #007BFF;
+	font-size: 20px;
+	margin-bottom: 10px;
+  }
+  
+  .filter {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding: 10px 0;
+  }
+  
+  .filter a {
+	padding: 6px 12px;
+	color: #333;
+	text-decoration: none;
+	margin: 0 6px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	transition: background-color 0.2s, color 0.2s;
+  }
+  
+  .filter a:hover {
+	background-color: #ccc;
+	color: #fff;
+  }
+  
+  .filter a.active {
+	background-color: #007BFF;
+	color: #fff;
+  }
+  
+  .container {
+	text-align: center;
+  }
+  
+  .small-image {
+	width: 300px;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+  }
+  
+  .filter-button.active {
+	background-color: #007BFF;
+	color: #fff;
+  }
+  
+  .filter-button {
+	padding: 6px 12px;
+	color: #333;
+	cursor: pointer;
+	margin: 4px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	transition: background-color 0.2s, color 0.2s;
+  }
+  
+  .filter-button:hover {
+	background-color: #ccc;
+	color: #fff;
+  }
+  
+  .menu {
+	background-color: white;
+	text-align: center;
+	padding: 10px;
+  }
+  
+  .menu a {
+	margin-right: 20px;
+	color: #3152af;
+	text-decoration: none;
+	font-size: 18px;
+  }
+  
+  .menu a:last-child {
+	margin-right: 0;
+  }
+  
